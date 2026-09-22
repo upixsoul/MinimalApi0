@@ -1,0 +1,6 @@
+@Minimal.REPR_HostAddress = http://localhost:5116
+
+GET {{Minimal.REPR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
